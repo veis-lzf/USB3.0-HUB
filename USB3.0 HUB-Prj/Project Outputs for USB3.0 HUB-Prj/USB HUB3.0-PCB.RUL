@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: G:\Altium\PCB Layout°¸×Ó\USB3.0 HUB\USB3.0 HUB-Prj\USB HUB3.0-PCB.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_GND_Poly|Scope=Board|Minimum=15.00
+RuleKind=Width|RuleName=Width_POWER_ROOM|Scope=Board|Minimum=8.00
+RuleKind=Width|RuleName=Width_POWER|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance_UI_ROOM|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.50
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [USB3.0 HUB-Prj.PrjPcb]
+   Generated File[Pick Place for USB HUB3.0-PCB.txt]
+   Generated File[Pick Place for USB HUB3.0-PCB.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 13:09:39 On 2019/12/15

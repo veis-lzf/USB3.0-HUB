@@ -1,0 +1,399 @@
+*************************************************************
+FileName = USB HUB3.0-PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Solder
+      File : USB HUB3.0-PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : USB HUB3.0-PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D34
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : USB HUB3.0-PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Dimensions
+      File : USB HUB3.0-PCB.GM3
+
+    Adding Layer      : Dimensions
+
+
+Used DCodes :
+    D12
+    D16
+*************************************************************
+
+*************************************************************
+Generating : BOTTOM
+      File : USB HUB3.0-PCB.GBL
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D16
+    D17
+    D30
+    D34
+    D39
+    D79
+    D81
+    D82
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D133
+*************************************************************
+
+*************************************************************
+Generating : PWR03
+      File : USB HUB3.0-PCB.GP2
+
+    Adding Layer      : PWR03
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D82
+    D114
+    D115
+    D117
+    D120
+    D121
+    D122
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : USB HUB3.0-PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : USB HUB3.0-PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : USB HUB3.0-PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D53
+    D57
+    D62
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Sheet
+      File : USB HUB3.0-PCB.GM2
+
+    Adding Layer      : Sheet
+
+
+Used DCodes :
+    D12
+    D14
+    D16
+    D17
+    D19
+    D82
+    D134
+    D135
+    D136
+*************************************************************
+
+*************************************************************
+Generating : TOP
+      File : USB HUB3.0-PCB.GTL
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D16
+    D17
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : USB HUB3.0-PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D21
+*************************************************************
+
+*************************************************************
+Generating : GND02
+      File : USB HUB3.0-PCB.GP1
+
+    Adding Layer      : GND02
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D82
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : USB HUB3.0-PCB.GD1
+
+    Adding Drill Pair : TOP-BOTTOM
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D12
+    D14
+    D20
+    D137
+    D138
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : USB HUB3.0-PCB.GG1
+
+    Adding Drill Pair : TOP-BOTTOM
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D20
+*************************************************************
+

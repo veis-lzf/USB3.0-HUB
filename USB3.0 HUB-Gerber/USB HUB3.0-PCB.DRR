@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USB HUB3.0-PCB.PcbDoc   2019/12/15  13:08:49
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : TOP to BOTTOM
+ASCII RoundHoles File : USB HUB3.0-PCB-RoundHoles.TXT
+ASCII SlotHoles File : USB HUB3.0-PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             600       PTH        0.00inch (0.00mm)
+T2      13mil (0.33mm)                                            Round             24        PTH        0.00inch (0.00mm)
+T3      20mil (0.5mm)                                             Round             32        PTH        0.00inch (0.00mm)
+T4      24mil (0.6mm)                                             Slot              3         PTH        0.00inch (0.00mm)
+T5      28mil (0.7mm)                                             Round             36        PTH        0.00inch (0.00mm)
+T6      30mil (0.75mm)                                            Round             5         PTH        0.00inch (0.00mm)
+T7      36mil (0.92mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T8      91mil (2.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T9      93mil (2.35mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T10     138mil (3.5mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              718
+
+Total Processing Time (hh:mm:ss) : 00:00:03
